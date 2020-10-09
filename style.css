@@ -1,0 +1,41 @@
+
+body{
+    background-color: antiquewhite;
+}
+h1{
+    padding-top: 30px;
+}
+
+.container{
+    background-color: aquamarine;
+    margin-top: 40px;
+    float: left;
+}
+.container-md{
+    background-color:aquamarine;
+    margin-top: 40px;
+    float: left;
+    padding:20px;
+}
+#portfolioContainer{
+    background-color: aquamarine;
+    margin-top: 40px;
+    float: left;
+}
+
+
+#headshot{
+    float: left;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+#portImage{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right:20px;
+}
+/* @media screen and (max-width: 768px){
+
+} */
