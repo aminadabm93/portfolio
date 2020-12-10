@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import Header from './components/Header';
 import About from './components/About';
-import Project from './components/Project'
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import Testimonials from  './components/Testimonials';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
+import Project from './components/Project';
 class App extends Component {
   render() {
     return (

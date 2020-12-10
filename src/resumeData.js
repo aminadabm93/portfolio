@@ -1,7 +1,7 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://aminadabm93.github.io/",
     "name": "Aminadab Morales",
-    "role": "full-stack software engineer",
+    "role": "Full-stack software engineer",
     "linkedinId":"aminadab-morales",
     "skypeid": "",
     "roleDescription": " Emerging University of Texas bootcamp graduate. Seeking a position at a company that values collaboration and personal well-being.",
@@ -81,7 +81,7 @@ let resumeData = {
       {
         "name":"Note Taker",
         "description":"Write and save notes in this web app that uses an express backend!",  
-        "imgurl":"/images/portfolio/NoteTaker.gif",
+        "imgurl":"  /images/portfolio/NoteTaker.gif",
         "url":"https://github.com/aminadabm93/noteTaker"
       }
     ],
