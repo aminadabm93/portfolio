@@ -7,14 +7,14 @@ export default class Project extends Component {
          <div className="row">
 
             <div className="six columns">
-               <a href={resumeData.mainProjects[0].url} target =""> 
+               <a href={resumeData.mainProjects[0].url} target ="_blank"> 
                     <img className="project-pic"  src={resumeData.mainProjects[0].imgurl}  alt="" />
                </a>
             </div>
 
             <div className="six columns main-col">
 
-            <a href={resumeData.mainProjects[0].url} target =""><h2>{resumeData.mainProjects[0].name}</h2></a>
+            <a href={resumeData.mainProjects[0].url} target ="_blank"><h2>{resumeData.mainProjects[0].name}</h2></a>
                <p>
                {
                  resumeData.mainProjects[0].description
