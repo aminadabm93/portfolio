@@ -69,19 +69,19 @@ let resumeData = {
       {
         "name":"Budget Tracker",
         "description":"Daily budget tracker that a user can input debts and income to track their finances!",
-        "imgurl":"/images/portfolio/BudgetTracker.gif",
+        "imgurl":"images/portfolio/BudgetTracker.gif",
         "url":"https://github.com/aminadabm93/budgetTracker"
       },
       {
         "name":"Google Book Search",
         "description":"Web app that allows users to save google searched books to a database.",
-        "imgurl":"/images/portfolio/ReactReadingList.gif",
+        "imgurl":"images/portfolio/ReactReadingList.gif",
         "url":"https://github.com/aminadabm93/googleBooksSearch"
       },
       {
         "name":"Note Taker",
         "description":"Write and save notes in this web app that uses an express backend!",  
-        "imgurl":"  /images/portfolio/NoteTaker.gif",
+        "imgurl":"images/portfolio/NoteTaker.gif",
         "url":"https://github.com/aminadabm93/noteTaker"
       }
     ],
