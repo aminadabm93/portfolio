@@ -97,6 +97,12 @@ let resumeData = {
     ],
     "mainProjects":[
       {
+        name:"Sushi-Junai Restaurant Website",
+        description:"As our bootcamp's final project myself and a team of 4 other amazing classmates got in contact with this restaurant and we begian creating them a website. Sushi-Junai has a special all you can eat sushi option where users must sign-in to the web app and create a cart which they then show their server. They are also able to save favorite items to their account for when they return! The app is still currently in production but give it a try! (link on title).",
+        imgurl:"./images/portfolio/sushijunai.gif",
+        url:"https://sushi-junai.herokuapp.com/",
+        gitUrl:"https://github.com/s2hon/sushi-junai"
+      },{
         name:"Chill Cubes Project",
         description:"A class partner and I created a ThreeJs simulation web app to help relieve some stress.  The app consists of two main animations, a beginner simple box animation and one with YouTube videos. Both have preferences that can be saved to your profile. The app is deployed through Heroku and requires a user sign-in, which was created using Passport.js. User profiles are saved to a MySQL database along with your preferences. Give it a try by clicking on the gif!",
         imgurl:"./images/portfolio/chillCubes.gif",
