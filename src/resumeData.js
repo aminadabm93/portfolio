@@ -18,7 +18,7 @@ let resumeData = {
         },
         {
           "name":"resume",
-          "url":"https://drive.google.com/file/d/1lktfyVSojZa3Hpet-nNC3A2cnxhAbY27/view?usp=sharing",
+          "url":"https://drive.google.com/file/d/1Al0H2awsGgRdp49tU0kYyaLm8mFA6yQB/view?usp=sharing",
           "className":"fa fa-file"
         }
       ],
