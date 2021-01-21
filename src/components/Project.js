@@ -4,6 +4,7 @@ export default class Project extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="project">
+        <h2>Recent Projects</h2>
         {
           resumeData.mainProjects.map(project => {
             return (

@@ -13,3 +13,6 @@ During my time at the University of Texas Coding Bootcamp we learned about full-
 4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
 5. Make required changes in ```src/resumeData.js``` to suit your needs.
 
+
+## Sources
+I used this [article](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) to aid in deploying React apps to GitHub Pages. 
