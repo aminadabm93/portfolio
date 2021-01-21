@@ -27,18 +27,17 @@ let resumeData = {
     "website":"aminadabm93@gmail.com",
     "education":[
       {
-        "UniversityName":"University of Texas - Austin",
-        "specialization":"Physics and Mathematics",
-        "MonthOfPassing":"Fall",
-        "YearOfPassing":"2017",
-        "Achievements":"Physics & Mathematics teaching certification, Elements of Computing Certificate, Maker Micro-credential"
-      },
-      {
         "UniversityName":"University of Texas - Full-Stack Coding Bootcamp",
         "specialization":"Full-stack web development",
         "MonthOfPassing":"Dec",
         "YearOfPassing":"2020",
         "Achievements":"Web Development: Javascript, HTML/CSS, MySQL, MongoDB, Express, Passport.js, React.js, AJAX"
+      },{
+        "UniversityName":"University of Texas - Austin",
+        "specialization":"Physics and Mathematics",
+        "MonthOfPassing":"Fall",
+        "YearOfPassing":"2017",
+        "Achievements":"Physics & Mathematics teaching certification, Elements of Computing Certificate, Maker Micro-credential"
       }
     ],
     "work":[
