@@ -336,23 +336,23 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.reactjs {
-  	width: 65%;
-  	-moz-animation: reactjs 2s ease;
-  	-webkit-animation: reactjs 2s ease;
-}
-.mysql\/mongodb {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.python {
-  	width: 40%;
-  	-moz-animation: python 2s ease;
-  	-webkit-animation: python 2s ease;
-}
-.css {
+.Apex {
   	width: 90%;
+  	-moz-animation: Apex 2s ease;
+  	-webkit-animation: Apex 2s ease;
+}
+.Javascript {
+  	width: 90%;
+  	-moz-animation: Javascript 2s ease;
+  	-webkit-animation: Javascript 2s ease;
+}
+.HTML {
+  	width: 80%;
+  	-moz-animation: HTML 2s ease;
+  	-webkit-animation: HTML 2s ease;
+}
+.SQL\/SOQL {
+  	width: 80%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -367,21 +367,21 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes reactjs {
+@-moz-keyframes Apex {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 90%;  }
 }
-@-moz-keyframes mysql/mongodb {
+@-moz-keyframes Javascript {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 90%;  }
 }
-@-moz-keyframes python {
+@-moz-keyframes HTML {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 80%;  }
 }
-@-moz-keyframes net/c# {
+@-moz-keyframes SQL\/SOQL {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }

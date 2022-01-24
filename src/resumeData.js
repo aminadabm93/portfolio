@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://aminadabm93.github.io/",
     "name": "Aminadab Morales",
-    "role": "Full-stack software engineer with a certificate from The University of Texas at Austin",
+    "role": "Full-stack web developer with a specialty in the Salesforce platform.",
     "linkedinId":"aminadab-morales",
     "skypeid": "",
-    "roleDescription": " Recent University of Texas bootcamp graduate with a background in physics, mathematics, and education.  I love bringing people together to solve difficult tasks in a collaborative environment.",
+    "roleDescription": " Empathetic engineer with a background in physics, mathematics, and education.  I love bringing people together to solve difficult tasks in a collaborative environment.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -18,11 +18,11 @@ let resumeData = {
         },
         {
           "name":"resume",
-          "url":"https://drive.google.com/file/d/1zxkH02bxd5wpKHmPNrUn8f7JavOICkg7/view",
+          "url":"https://drive.google.com/file/d/1n_2Lii2YVqagog1PgecQCrw62T5VCte3/view?usp=sharing",
           "className":"fa fa-file"
         }
       ],
-    "aboutme":"Hi all! The journey of my software career began in high school where I studied Java for 2 years and then self-taught Objective-C for a year. Onto college at the University of Texas at Austin where I began as a computer science student while also leading study groups. I felt a calling to give back to society and shifted my studies to physics and mathemathics as to become a high school teacher! 3 years later and I am deciding to switch careers because I miss working with a team on challenging puzzles. I miss creating a product that can benefit real world users.  I am a big fan of the logic and algorithms in back-end development, and look forward to cracking jokes and working with a team on some exciting projects. In my off-time I heavily enjoy the outdoors, cooking, and music.",
+    "aboutme":"Hi all! The journey of my software career began in high school where I studied Java for 2 years and then self-taught Objective-C for a year. Onto college at the University of Texas at Austin where I began as a computer science student while also leading study groups. I felt a calling to give back to society and shifted my studies to physics and mathemathics as to become a high school teacher! 3 years later and I decided to switch careers because I miss working with a team on challenging puzzles. I am a happiest on a team that takes pride in ownership and philanthropy. In my off-time I heavily enjoy the outdoors, cooking, and music.",
     "address":"Austin, TX",
     "website":"aminadabm93@gmail.com",
     "education":[
@@ -42,6 +42,12 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Salesforce",
+        "specialization":"Associate Technical Consultant ",
+        "startDate":"April, 2021",
+        "leaveDate":"Present",
+        "Achievements":"Developed industry specific, user-friendly, mobile and web apps for billion dollar companies using the Salesforce cloud platform reaching a satisfaction rating of 93%. Configured native Salesforce to leverage OOTB solutions and used Apex alongside custom Lightning Web Components to provide the most customizable solutions for specific and complex needs. Founded an “appreciation & kuddos” slack-channel to promote gratitude within coworkers. Mentored 2 new hires to succeed in a virtual workspace and obtain a total of 6 salesforce certifications"
+      },{
         "CompanyName":"Cedars International Next Gen. High School",
         "specialization":"Project Based Learning Physics and Math Teacher",
         "startDate":"Aug, 2017",
@@ -55,19 +61,19 @@ let resumeData = {
         "Achievements":"Met with chemical engineers to discuss parameters and thresholds that were needed to create safety reports for each refinery unit. Maintained and used inhouse software made with VBA to cutdown time spent on reports by 80% "
       }
     ],
-    "skillsDescription":"As my about me states, I studied Java for 3 years. The bootcamp covered web development where I gravitated towards the back-end. I self-taught Python and .Net Framework through some projects. I'm a fantastic collaborator and great team facilitator - I love to balance and bring teams together (I see management in my future). \n Some of the skills I learned at the bootcamp: Javascript, HTML5, Node.js, Responsive Design, Bootstrap, React.js, MongoDB, MySQL, Heroku, GitHub, User Authentication, Express.js, and many many more!",
+    "skillsDescription":"As my about me states, I studied Java for 3 years. The bootcamp covered web development where I gravitated towards the back-end. I self-taught Python and .Net Framework through some projects. I'm a fantastic collaborator and great team facilitator - I love to bring teams together (I see management in my future). \n Some of the skills: Javascript, HTML5, Apex, Node.js, Responsive Design, Bootstrap, React.js, MongoDB, MySQL, Heroku, GitHub, User Authentication, Express.js, and REST/SOAP APIs!",
     "skills":[
       {
-        "skillname":"ReactJs"
+        "skillname":"Apex"
       },
       {
-        "skillname":"MySQL/MongoDB"
+        "skillname":"Javascript"
       },
       {
-        "skillname":"Python"
+        "skillname":"HTML"
       },
       {
-        "skillname":"NET/C#"
+        "skillname":"SQL/SOQL"
       }
     ],
     "portfolio":[
