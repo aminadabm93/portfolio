@@ -336,22 +336,22 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.Apex {
-  	width: 90%;
+.apex {
+  	width: 80%;
   	-moz-animation: Apex 2s ease;
   	-webkit-animation: Apex 2s ease;
 }
-.Javascript {
+.javascript {
   	width: 90%;
   	-moz-animation: Javascript 2s ease;
   	-webkit-animation: Javascript 2s ease;
 }
-.HTML {
-  	width: 80%;
+.html {
+  	width: 90%;
   	-moz-animation: HTML 2s ease;
   	-webkit-animation: HTML 2s ease;
 }
-.SQL\/SOQL {
+.sql\/soql{
   	width: 80%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
@@ -367,25 +367,25 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes Apex {
+@-moz-keyframes apex {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 100%;  }
 }
-@-moz-keyframes Javascript {
+@-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 100%;  }
 }
-@-moz-keyframes HTML {
+@-moz-keyframes html {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 100%;  }
 }
-@-moz-keyframes SQL\/SOQL {
+@-moz-keyframes sql\/soql {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 100%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 100%;  }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
